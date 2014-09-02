@@ -2,6 +2,8 @@
 #include "string.h"
 using namespace std;
 
+// some random comments.
+
 struct node{
 	int value;
 	int numChildren;
